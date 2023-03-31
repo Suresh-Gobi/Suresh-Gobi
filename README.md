@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+>I'm Suresh Gobi, who highly skilled web developer with experience in <b> HTML, CSS, and PHP</b>. I have also honed my programming skills in various languages including <b>C#, JAVA, JavaScript, and Python.</b> I have a deep understanding of front-end development and have worked with frameworks such as Bootstrap. I also have experience with .NET and ASP.NET, which I have used to build robust, scalable web applications.
+
 <!--
 **Suresh-Gobi/Suresh-Gobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
